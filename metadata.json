@@ -1,0 +1,6 @@
+{
+  "name": "AI Bug Fix Assistant",
+  "description": "AI-powered debugging, code analysis, bug fixing, security scanning, and unit test generation application powered by Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
